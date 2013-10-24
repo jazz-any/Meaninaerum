@@ -13,8 +13,11 @@ Definition of <b>mean</b> in English:
 Are you still sure you know the definition of English words?
 
 <i>"Meaninaerum"</i> can help you to check your knowledge.
-Your score will hit up each time you pick up the right word definition, try yourself at different levels. 
+Your score will hit up each time you pick up the right word definition, try yourself at different levels and compete with friends for the title of King of Meaninaerum. 
 Learn more!
 
+####Developers:
+* Anastasiia Vasenko
+* Sergii Gavrylov
 
 <img src="http://de.playstation.com/media/7kTz50w0/Machinarium_Hero.JPG" >
